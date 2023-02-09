@@ -1,0 +1,5 @@
+du => https://www.redhat.com/sysadmin/du-command-options
+du -sh directory
+df => https://linuxconcept.com/15-useful-df-commands-to-check-disk-space-in-linux/
+
+q1. What is filesystem - https://www.ibm.com/docs/en/aix/7.2?topic=tree-file-system-structure
